@@ -1,4 +1,4 @@
-https://github.com/V1CTOR022/Portflio/settings/pages
+https://v1ctor022.github.io/Portflio/
 # Portfólio de Victor Yuri Vargas Koss
 
 Bem-vindo ao meu portfólio! Aqui você encontra meus projetos, habilidades e formas de contato.
